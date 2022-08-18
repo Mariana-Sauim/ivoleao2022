@@ -1,8 +1,13 @@
  
- p {
-
-     text-align: center
-}
 body {
     background-color: #B0C4DE ;
+}
+
+h2 {
+    text-align: center; 
+    background: #DAA520;
+}
+
+p {
+   text-align: center
 }

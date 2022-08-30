@@ -3,6 +3,10 @@ body {
     background-color:Lavender;
 }
 
+#foto1 {
+    height: 550px;
+}
+
 h2 {
     text-align: center; 
     background:#c8d7eb;

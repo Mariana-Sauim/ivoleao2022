@@ -23,3 +23,7 @@ p {
 strong {
     color: rgb(145, 0, 0) ;
 }
+
+em {
+    color: rgb(171, 0, 0);
+}

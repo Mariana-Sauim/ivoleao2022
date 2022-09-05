@@ -19,3 +19,7 @@ p {
    background:rgb(94, 94, 121);
    font-size: 20px;
 }
+
+strong {
+    color: rgb(74, 59, 99) ;
+}

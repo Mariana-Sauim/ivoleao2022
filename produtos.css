@@ -33,6 +33,11 @@ nav a:hover {
 
 /* produtos */
 
+.img {
+    width: 350px;
+    height: 350px;
+}
+
 h2 {
     text-align: center; 
     background:#462F66;

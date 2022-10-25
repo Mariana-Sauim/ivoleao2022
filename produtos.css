@@ -33,8 +33,14 @@ nav a:hover {
 
 /* produtos */
 
+.produtos {
+    width: 400px;
+    margin: 0 auto;
+}
+
 .produtos li {
     display: inline-block;
+    text-align: center;
 }
 
 .img {

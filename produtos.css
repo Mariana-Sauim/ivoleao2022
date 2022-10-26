@@ -96,7 +96,9 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background-color: black;
+    background-color: rgb(58, 58, 58);
+    width: 400px;
+    height: 400px;
 }
 
 .img {

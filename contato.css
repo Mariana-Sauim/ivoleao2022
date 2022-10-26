@@ -38,6 +38,15 @@ nav a:hover {
 
 /* contato */
 
+footer {
+    text-align: center;
+}
+
+.copyright {
+    color: #9D6AE6;
+    font-size: medium;
+}
+
 h2 {
     text-align: center; 
     background:#462F66;

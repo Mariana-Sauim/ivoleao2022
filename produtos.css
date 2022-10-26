@@ -52,6 +52,11 @@ nav a:hover {
     font-weight: bold;
 }
 
+.produto-preco{
+    font-size: 22px;
+    font-weight: bold;
+}
+
 .img {
     width: 200px;
     height: 200px;

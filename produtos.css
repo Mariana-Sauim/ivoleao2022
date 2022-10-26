@@ -47,7 +47,8 @@ nav a:hover {
     margin: 2 1,0%;
     padding: 30 px 25px;
     box-sizing: border-box;
-    border: 2px solid #C9B2EA
+    border: 2px solid #C9B2EA;
+    border-radius: 10px;
 }
 
 .produtos h2 {

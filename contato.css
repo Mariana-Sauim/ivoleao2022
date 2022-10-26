@@ -2,6 +2,11 @@ body {
     background-color:#462F66;
 }
 
+.logo {
+    width: 250px;
+    height: 250px;
+}
+
 /*NAVEGAÇÃO ENTRE PAGINAS*/
 .navegação {
     padding: 20px 0;

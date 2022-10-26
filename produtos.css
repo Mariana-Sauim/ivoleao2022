@@ -41,7 +41,6 @@ nav a:hover {
 
 .produtos li {
     display: inline-block;
-    text-align: center;
     width: 30%;
     vertical-align: top;
     margin: 0 1,5%;
@@ -56,7 +55,6 @@ nav a:hover {
 
 .produto-descricao {
     font-size: 18px;
-
 }
 
 .produto-preco{
